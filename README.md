@@ -42,9 +42,9 @@ categorical_crossentropy: Функція втрат крос-ентропії.
 
 parse_xml_annotation: Парсить XML-файл для отримання анотацій.
 
-![image](https://github.com/Max888-git/Master_degree/assets/75749649/59274c57-c713-4485-a171-b85f39acf70d)
+![image](https://github.com/Max888-git/Master_degree/assets/75749649/7480c2f0-3e7b-40d7-91fe-fbf3ddc2c33d)
 
-![image](https://github.com/Max888-git/Master_degree/assets/75749649/cede0cbc-ca00-49e0-a98f-3ecd48aa00e0)
+![image](https://github.com/Max888-git/Master_degree/assets/75749649/936d9ca5-2d5d-4f6d-9ff1-db72d717a860)
+
 
 І це іще далеко не все, продовження звісно буде
-
